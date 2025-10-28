@@ -1,0 +1,50 @@
+S:\algoriza api\New folder\ByWay\BywayProject\Byway.Domain\bin\Debug\net8.0\Byway.Domain.deps.json
+S:\algoriza api\New folder\ByWay\BywayProject\Byway.Domain\bin\Debug\net8.0\Byway.Domain.dll
+S:\algoriza api\New folder\ByWay\BywayProject\Byway.Domain\bin\Debug\net8.0\Byway.Domain.pdb
+S:\algoriza api\New folder\ByWay\BywayProject\Byway.Domain\obj\Debug\net8.0\Byway.Domain.csproj.AssemblyReference.cache
+S:\algoriza api\New folder\ByWay\BywayProject\Byway.Domain\obj\Debug\net8.0\Byway.Domain.GeneratedMSBuildEditorConfig.editorconfig
+S:\algoriza api\New folder\ByWay\BywayProject\Byway.Domain\obj\Debug\net8.0\Byway.Domain.AssemblyInfoInputs.cache
+S:\algoriza api\New folder\ByWay\BywayProject\Byway.Domain\obj\Debug\net8.0\Byway.Domain.AssemblyInfo.cs
+S:\algoriza api\New folder\ByWay\BywayProject\Byway.Domain\obj\Debug\net8.0\Byway.Domain.csproj.CoreCompileInputs.cache
+S:\algoriza api\New folder\ByWay\BywayProject\Byway.Domain\obj\Debug\net8.0\Byway.Domain.dll
+S:\algoriza api\New folder\ByWay\BywayProject\Byway.Domain\obj\Debug\net8.0\refint\Byway.Domain.dll
+S:\algoriza api\New folder\ByWay\BywayProject\Byway.Domain\obj\Debug\net8.0\Byway.Domain.pdb
+S:\algoriza api\New folder\ByWay\BywayProject\Byway.Domain\obj\Debug\net8.0\ref\Byway.Domain.dll
+S:\algoriza api\New folder\backend\ByWay\BywayProject\Byway.Domain\bin\Debug\net8.0\Byway.Domain.deps.json
+S:\algoriza api\New folder\backend\ByWay\BywayProject\Byway.Domain\bin\Debug\net8.0\Byway.Domain.dll
+S:\algoriza api\New folder\backend\ByWay\BywayProject\Byway.Domain\bin\Debug\net8.0\Byway.Domain.pdb
+S:\algoriza api\New folder\backend\ByWay\BywayProject\Byway.Domain\obj\Debug\net8.0\Byway.Domain.csproj.AssemblyReference.cache
+S:\algoriza api\New folder\backend\ByWay\BywayProject\Byway.Domain\obj\Debug\net8.0\Byway.Domain.GeneratedMSBuildEditorConfig.editorconfig
+S:\algoriza api\New folder\backend\ByWay\BywayProject\Byway.Domain\obj\Debug\net8.0\Byway.Domain.AssemblyInfoInputs.cache
+S:\algoriza api\New folder\backend\ByWay\BywayProject\Byway.Domain\obj\Debug\net8.0\Byway.Domain.AssemblyInfo.cs
+S:\algoriza api\New folder\backend\ByWay\BywayProject\Byway.Domain\obj\Debug\net8.0\Byway.Domain.csproj.CoreCompileInputs.cache
+S:\algoriza api\New folder\backend\ByWay\BywayProject\Byway.Domain\obj\Debug\net8.0\Byway.Domain.dll
+S:\algoriza api\New folder\backend\ByWay\BywayProject\Byway.Domain\obj\Debug\net8.0\refint\Byway.Domain.dll
+S:\algoriza api\New folder\backend\ByWay\BywayProject\Byway.Domain\obj\Debug\net8.0\Byway.Domain.pdb
+S:\algoriza api\New folder\backend\ByWay\BywayProject\Byway.Domain\obj\Debug\net8.0\ref\Byway.Domain.dll
+S:\algoriza api\FrontEnd+BackEnd\byway-elearning-platform\backend\ByWay\BywayProject\Byway.Domain\bin\Debug\net8.0\Byway.Domain.deps.json
+S:\algoriza api\FrontEnd+BackEnd\byway-elearning-platform\backend\ByWay\BywayProject\Byway.Domain\bin\Debug\net8.0\Byway.Domain.dll
+S:\algoriza api\FrontEnd+BackEnd\byway-elearning-platform\backend\ByWay\BywayProject\Byway.Domain\bin\Debug\net8.0\Byway.Domain.pdb
+S:\algoriza api\FrontEnd+BackEnd\byway-elearning-platform\backend\ByWay\BywayProject\Byway.Domain\obj\Debug\net8.0\Byway.Domain.csproj.AssemblyReference.cache
+S:\algoriza api\FrontEnd+BackEnd\byway-elearning-platform\backend\ByWay\BywayProject\Byway.Domain\obj\Debug\net8.0\Byway.Domain.GeneratedMSBuildEditorConfig.editorconfig
+S:\algoriza api\FrontEnd+BackEnd\byway-elearning-platform\backend\ByWay\BywayProject\Byway.Domain\obj\Debug\net8.0\Byway.Domain.AssemblyInfoInputs.cache
+S:\algoriza api\FrontEnd+BackEnd\byway-elearning-platform\backend\ByWay\BywayProject\Byway.Domain\obj\Debug\net8.0\Byway.Domain.AssemblyInfo.cs
+S:\algoriza api\FrontEnd+BackEnd\byway-elearning-platform\backend\ByWay\BywayProject\Byway.Domain\obj\Debug\net8.0\Byway.Domain.csproj.CoreCompileInputs.cache
+S:\algoriza api\FrontEnd+BackEnd\byway-elearning-platform\backend\ByWay\BywayProject\Byway.Domain\obj\Debug\net8.0\Byway.Domain.sourcelink.json
+S:\algoriza api\FrontEnd+BackEnd\byway-elearning-platform\backend\ByWay\BywayProject\Byway.Domain\obj\Debug\net8.0\Byway.Domain.dll
+S:\algoriza api\FrontEnd+BackEnd\byway-elearning-platform\backend\ByWay\BywayProject\Byway.Domain\obj\Debug\net8.0\refint\Byway.Domain.dll
+S:\algoriza api\FrontEnd+BackEnd\byway-elearning-platform\backend\ByWay\BywayProject\Byway.Domain\obj\Debug\net8.0\Byway.Domain.pdb
+S:\algoriza api\FrontEnd+BackEnd\byway-elearning-platform\backend\ByWay\BywayProject\Byway.Domain\obj\Debug\net8.0\ref\Byway.Domain.dll
+S:\Algoriza\algoriza-internship2025-EXFS51-BE-byway\Byway.Domain\bin\Debug\net8.0\Byway.Domain.deps.json
+S:\Algoriza\algoriza-internship2025-EXFS51-BE-byway\Byway.Domain\bin\Debug\net8.0\Byway.Domain.dll
+S:\Algoriza\algoriza-internship2025-EXFS51-BE-byway\Byway.Domain\bin\Debug\net8.0\Byway.Domain.pdb
+S:\Algoriza\algoriza-internship2025-EXFS51-BE-byway\Byway.Domain\obj\Debug\net8.0\Byway.Domain.csproj.AssemblyReference.cache
+S:\Algoriza\algoriza-internship2025-EXFS51-BE-byway\Byway.Domain\obj\Debug\net8.0\Byway.Domain.GeneratedMSBuildEditorConfig.editorconfig
+S:\Algoriza\algoriza-internship2025-EXFS51-BE-byway\Byway.Domain\obj\Debug\net8.0\Byway.Domain.AssemblyInfoInputs.cache
+S:\Algoriza\algoriza-internship2025-EXFS51-BE-byway\Byway.Domain\obj\Debug\net8.0\Byway.Domain.AssemblyInfo.cs
+S:\Algoriza\algoriza-internship2025-EXFS51-BE-byway\Byway.Domain\obj\Debug\net8.0\Byway.Domain.csproj.CoreCompileInputs.cache
+S:\Algoriza\algoriza-internship2025-EXFS51-BE-byway\Byway.Domain\obj\Debug\net8.0\Byway.Domain.sourcelink.json
+S:\Algoriza\algoriza-internship2025-EXFS51-BE-byway\Byway.Domain\obj\Debug\net8.0\Byway.Domain.dll
+S:\Algoriza\algoriza-internship2025-EXFS51-BE-byway\Byway.Domain\obj\Debug\net8.0\refint\Byway.Domain.dll
+S:\Algoriza\algoriza-internship2025-EXFS51-BE-byway\Byway.Domain\obj\Debug\net8.0\Byway.Domain.pdb
+S:\Algoriza\algoriza-internship2025-EXFS51-BE-byway\Byway.Domain\obj\Debug\net8.0\ref\Byway.Domain.dll

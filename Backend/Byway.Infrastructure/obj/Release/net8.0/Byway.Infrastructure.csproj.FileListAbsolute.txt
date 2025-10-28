@@ -1,0 +1,39 @@
+S:\algoriza api\New folder\ByWay\BywayProject\Byway.Infrastructure\bin\Release\net8.0\Byway.Infrastructure.deps.json
+S:\algoriza api\New folder\ByWay\BywayProject\Byway.Infrastructure\bin\Release\net8.0\Byway.Infrastructure.runtimeconfig.json
+S:\algoriza api\New folder\ByWay\BywayProject\Byway.Infrastructure\bin\Release\net8.0\Byway.Infrastructure.dll
+S:\algoriza api\New folder\ByWay\BywayProject\Byway.Infrastructure\bin\Release\net8.0\Byway.Infrastructure.pdb
+S:\algoriza api\New folder\ByWay\BywayProject\Byway.Infrastructure\bin\Release\net8.0\Byway.Application.dll
+S:\algoriza api\New folder\ByWay\BywayProject\Byway.Infrastructure\bin\Release\net8.0\Byway.Domain.dll
+S:\algoriza api\New folder\ByWay\BywayProject\Byway.Infrastructure\bin\Release\net8.0\Byway.Domain.pdb
+S:\algoriza api\New folder\ByWay\BywayProject\Byway.Infrastructure\bin\Release\net8.0\Byway.Application.pdb
+S:\algoriza api\New folder\ByWay\BywayProject\Byway.Infrastructure\obj\Release\net8.0\Byway.Infrastructure.csproj.AssemblyReference.cache
+S:\algoriza api\New folder\ByWay\BywayProject\Byway.Infrastructure\obj\Release\net8.0\Byway.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+S:\algoriza api\New folder\ByWay\BywayProject\Byway.Infrastructure\obj\Release\net8.0\Byway.Infrastructure.AssemblyInfoInputs.cache
+S:\algoriza api\New folder\ByWay\BywayProject\Byway.Infrastructure\obj\Release\net8.0\Byway.Infrastructure.AssemblyInfo.cs
+S:\algoriza api\New folder\ByWay\BywayProject\Byway.Infrastructure\obj\Release\net8.0\Byway.Infrastructure.csproj.CoreCompileInputs.cache
+S:\algoriza api\New folder\ByWay\BywayProject\Byway.Infrastructure\obj\Release\net8.0\Byway.In.563404C7.Up2Date
+S:\algoriza api\New folder\ByWay\BywayProject\Byway.Infrastructure\obj\Release\net8.0\Byway.Infrastructure.dll
+S:\algoriza api\New folder\ByWay\BywayProject\Byway.Infrastructure\obj\Release\net8.0\refint\Byway.Infrastructure.dll
+S:\algoriza api\New folder\ByWay\BywayProject\Byway.Infrastructure\obj\Release\net8.0\Byway.Infrastructure.pdb
+S:\algoriza api\New folder\ByWay\BywayProject\Byway.Infrastructure\obj\Release\net8.0\Byway.Infrastructure.genruntimeconfig.cache
+S:\algoriza api\New folder\ByWay\BywayProject\Byway.Infrastructure\obj\Release\net8.0\ref\Byway.Infrastructure.dll
+S:\algoriza api\FrontEnd+BackEnd\byway-elearning-platform\backend\ByWay\BywayProject\Byway.Infrastructure\bin\Release\net8.0\Byway.Infrastructure.deps.json
+S:\algoriza api\FrontEnd+BackEnd\byway-elearning-platform\backend\ByWay\BywayProject\Byway.Infrastructure\bin\Release\net8.0\Byway.Infrastructure.runtimeconfig.json
+S:\algoriza api\FrontEnd+BackEnd\byway-elearning-platform\backend\ByWay\BywayProject\Byway.Infrastructure\bin\Release\net8.0\Byway.Infrastructure.dll
+S:\algoriza api\FrontEnd+BackEnd\byway-elearning-platform\backend\ByWay\BywayProject\Byway.Infrastructure\bin\Release\net8.0\Byway.Infrastructure.pdb
+S:\algoriza api\FrontEnd+BackEnd\byway-elearning-platform\backend\ByWay\BywayProject\Byway.Infrastructure\bin\Release\net8.0\Byway.Application.dll
+S:\algoriza api\FrontEnd+BackEnd\byway-elearning-platform\backend\ByWay\BywayProject\Byway.Infrastructure\bin\Release\net8.0\Byway.Domain.dll
+S:\algoriza api\FrontEnd+BackEnd\byway-elearning-platform\backend\ByWay\BywayProject\Byway.Infrastructure\bin\Release\net8.0\Byway.Domain.pdb
+S:\algoriza api\FrontEnd+BackEnd\byway-elearning-platform\backend\ByWay\BywayProject\Byway.Infrastructure\bin\Release\net8.0\Byway.Application.pdb
+S:\algoriza api\FrontEnd+BackEnd\byway-elearning-platform\backend\ByWay\BywayProject\Byway.Infrastructure\obj\Release\net8.0\Byway.Infrastructure.csproj.AssemblyReference.cache
+S:\algoriza api\FrontEnd+BackEnd\byway-elearning-platform\backend\ByWay\BywayProject\Byway.Infrastructure\obj\Release\net8.0\Byway.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+S:\algoriza api\FrontEnd+BackEnd\byway-elearning-platform\backend\ByWay\BywayProject\Byway.Infrastructure\obj\Release\net8.0\Byway.Infrastructure.AssemblyInfoInputs.cache
+S:\algoriza api\FrontEnd+BackEnd\byway-elearning-platform\backend\ByWay\BywayProject\Byway.Infrastructure\obj\Release\net8.0\Byway.Infrastructure.AssemblyInfo.cs
+S:\algoriza api\FrontEnd+BackEnd\byway-elearning-platform\backend\ByWay\BywayProject\Byway.Infrastructure\obj\Release\net8.0\Byway.Infrastructure.csproj.CoreCompileInputs.cache
+S:\algoriza api\FrontEnd+BackEnd\byway-elearning-platform\backend\ByWay\BywayProject\Byway.Infrastructure\obj\Release\net8.0\Byway.Infrastructure.sourcelink.json
+S:\algoriza api\FrontEnd+BackEnd\byway-elearning-platform\backend\ByWay\BywayProject\Byway.Infrastructure\obj\Release\net8.0\Byway.In.563404C7.Up2Date
+S:\algoriza api\FrontEnd+BackEnd\byway-elearning-platform\backend\ByWay\BywayProject\Byway.Infrastructure\obj\Release\net8.0\Byway.Infrastructure.dll
+S:\algoriza api\FrontEnd+BackEnd\byway-elearning-platform\backend\ByWay\BywayProject\Byway.Infrastructure\obj\Release\net8.0\refint\Byway.Infrastructure.dll
+S:\algoriza api\FrontEnd+BackEnd\byway-elearning-platform\backend\ByWay\BywayProject\Byway.Infrastructure\obj\Release\net8.0\Byway.Infrastructure.pdb
+S:\algoriza api\FrontEnd+BackEnd\byway-elearning-platform\backend\ByWay\BywayProject\Byway.Infrastructure\obj\Release\net8.0\Byway.Infrastructure.genruntimeconfig.cache
+S:\algoriza api\FrontEnd+BackEnd\byway-elearning-platform\backend\ByWay\BywayProject\Byway.Infrastructure\obj\Release\net8.0\ref\Byway.Infrastructure.dll

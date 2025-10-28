@@ -1,0 +1,62 @@
+S:\algoriza api\New folder\ByWay\BywayProject\Byway.Application\bin\Debug\net8.0\Byway.Application.deps.json
+S:\algoriza api\New folder\ByWay\BywayProject\Byway.Application\bin\Debug\net8.0\Byway.Application.dll
+S:\algoriza api\New folder\ByWay\BywayProject\Byway.Application\bin\Debug\net8.0\Byway.Application.pdb
+S:\algoriza api\New folder\ByWay\BywayProject\Byway.Application\bin\Debug\net8.0\Byway.Domain.dll
+S:\algoriza api\New folder\ByWay\BywayProject\Byway.Application\bin\Debug\net8.0\Byway.Domain.pdb
+S:\algoriza api\New folder\ByWay\BywayProject\Byway.Application\obj\Debug\net8.0\Byway.Application.csproj.AssemblyReference.cache
+S:\algoriza api\New folder\ByWay\BywayProject\Byway.Application\obj\Debug\net8.0\Byway.Application.GeneratedMSBuildEditorConfig.editorconfig
+S:\algoriza api\New folder\ByWay\BywayProject\Byway.Application\obj\Debug\net8.0\Byway.Application.AssemblyInfoInputs.cache
+S:\algoriza api\New folder\ByWay\BywayProject\Byway.Application\obj\Debug\net8.0\Byway.Application.AssemblyInfo.cs
+S:\algoriza api\New folder\ByWay\BywayProject\Byway.Application\obj\Debug\net8.0\Byway.Application.csproj.CoreCompileInputs.cache
+S:\algoriza api\New folder\ByWay\BywayProject\Byway.Application\obj\Debug\net8.0\Byway.Ap.AB7BE7CA.Up2Date
+S:\algoriza api\New folder\ByWay\BywayProject\Byway.Application\obj\Debug\net8.0\Byway.Application.dll
+S:\algoriza api\New folder\ByWay\BywayProject\Byway.Application\obj\Debug\net8.0\refint\Byway.Application.dll
+S:\algoriza api\New folder\ByWay\BywayProject\Byway.Application\obj\Debug\net8.0\Byway.Application.pdb
+S:\algoriza api\New folder\ByWay\BywayProject\Byway.Application\obj\Debug\net8.0\ref\Byway.Application.dll
+S:\algoriza api\New folder\backend\ByWay\BywayProject\Byway.Application\bin\Debug\net8.0\Byway.Application.deps.json
+S:\algoriza api\New folder\backend\ByWay\BywayProject\Byway.Application\bin\Debug\net8.0\Byway.Application.dll
+S:\algoriza api\New folder\backend\ByWay\BywayProject\Byway.Application\bin\Debug\net8.0\Byway.Application.pdb
+S:\algoriza api\New folder\backend\ByWay\BywayProject\Byway.Application\bin\Debug\net8.0\Byway.Domain.dll
+S:\algoriza api\New folder\backend\ByWay\BywayProject\Byway.Application\bin\Debug\net8.0\Byway.Domain.pdb
+S:\algoriza api\New folder\backend\ByWay\BywayProject\Byway.Application\obj\Debug\net8.0\Byway.Application.csproj.AssemblyReference.cache
+S:\algoriza api\New folder\backend\ByWay\BywayProject\Byway.Application\obj\Debug\net8.0\Byway.Application.GeneratedMSBuildEditorConfig.editorconfig
+S:\algoriza api\New folder\backend\ByWay\BywayProject\Byway.Application\obj\Debug\net8.0\Byway.Application.AssemblyInfoInputs.cache
+S:\algoriza api\New folder\backend\ByWay\BywayProject\Byway.Application\obj\Debug\net8.0\Byway.Application.AssemblyInfo.cs
+S:\algoriza api\New folder\backend\ByWay\BywayProject\Byway.Application\obj\Debug\net8.0\Byway.Application.csproj.CoreCompileInputs.cache
+S:\algoriza api\New folder\backend\ByWay\BywayProject\Byway.Application\obj\Debug\net8.0\Byway.Ap.AB7BE7CA.Up2Date
+S:\algoriza api\New folder\backend\ByWay\BywayProject\Byway.Application\obj\Debug\net8.0\Byway.Application.dll
+S:\algoriza api\New folder\backend\ByWay\BywayProject\Byway.Application\obj\Debug\net8.0\refint\Byway.Application.dll
+S:\algoriza api\New folder\backend\ByWay\BywayProject\Byway.Application\obj\Debug\net8.0\Byway.Application.pdb
+S:\algoriza api\New folder\backend\ByWay\BywayProject\Byway.Application\obj\Debug\net8.0\ref\Byway.Application.dll
+S:\algoriza api\FrontEnd+BackEnd\byway-elearning-platform\backend\ByWay\BywayProject\Byway.Application\bin\Debug\net8.0\Byway.Application.deps.json
+S:\algoriza api\FrontEnd+BackEnd\byway-elearning-platform\backend\ByWay\BywayProject\Byway.Application\bin\Debug\net8.0\Byway.Application.dll
+S:\algoriza api\FrontEnd+BackEnd\byway-elearning-platform\backend\ByWay\BywayProject\Byway.Application\bin\Debug\net8.0\Byway.Application.pdb
+S:\algoriza api\FrontEnd+BackEnd\byway-elearning-platform\backend\ByWay\BywayProject\Byway.Application\bin\Debug\net8.0\Byway.Domain.dll
+S:\algoriza api\FrontEnd+BackEnd\byway-elearning-platform\backend\ByWay\BywayProject\Byway.Application\bin\Debug\net8.0\Byway.Domain.pdb
+S:\algoriza api\FrontEnd+BackEnd\byway-elearning-platform\backend\ByWay\BywayProject\Byway.Application\obj\Debug\net8.0\Byway.Application.csproj.AssemblyReference.cache
+S:\algoriza api\FrontEnd+BackEnd\byway-elearning-platform\backend\ByWay\BywayProject\Byway.Application\obj\Debug\net8.0\Byway.Application.GeneratedMSBuildEditorConfig.editorconfig
+S:\algoriza api\FrontEnd+BackEnd\byway-elearning-platform\backend\ByWay\BywayProject\Byway.Application\obj\Debug\net8.0\Byway.Application.AssemblyInfoInputs.cache
+S:\algoriza api\FrontEnd+BackEnd\byway-elearning-platform\backend\ByWay\BywayProject\Byway.Application\obj\Debug\net8.0\Byway.Application.AssemblyInfo.cs
+S:\algoriza api\FrontEnd+BackEnd\byway-elearning-platform\backend\ByWay\BywayProject\Byway.Application\obj\Debug\net8.0\Byway.Application.csproj.CoreCompileInputs.cache
+S:\algoriza api\FrontEnd+BackEnd\byway-elearning-platform\backend\ByWay\BywayProject\Byway.Application\obj\Debug\net8.0\Byway.Application.sourcelink.json
+S:\algoriza api\FrontEnd+BackEnd\byway-elearning-platform\backend\ByWay\BywayProject\Byway.Application\obj\Debug\net8.0\Byway.Ap.AB7BE7CA.Up2Date
+S:\algoriza api\FrontEnd+BackEnd\byway-elearning-platform\backend\ByWay\BywayProject\Byway.Application\obj\Debug\net8.0\Byway.Application.dll
+S:\algoriza api\FrontEnd+BackEnd\byway-elearning-platform\backend\ByWay\BywayProject\Byway.Application\obj\Debug\net8.0\refint\Byway.Application.dll
+S:\algoriza api\FrontEnd+BackEnd\byway-elearning-platform\backend\ByWay\BywayProject\Byway.Application\obj\Debug\net8.0\Byway.Application.pdb
+S:\algoriza api\FrontEnd+BackEnd\byway-elearning-platform\backend\ByWay\BywayProject\Byway.Application\obj\Debug\net8.0\ref\Byway.Application.dll
+S:\Algoriza\algoriza-internship2025-EXFS51-BE-byway\Byway.Application\bin\Debug\net8.0\Byway.Application.deps.json
+S:\Algoriza\algoriza-internship2025-EXFS51-BE-byway\Byway.Application\bin\Debug\net8.0\Byway.Application.dll
+S:\Algoriza\algoriza-internship2025-EXFS51-BE-byway\Byway.Application\bin\Debug\net8.0\Byway.Application.pdb
+S:\Algoriza\algoriza-internship2025-EXFS51-BE-byway\Byway.Application\bin\Debug\net8.0\Byway.Domain.dll
+S:\Algoriza\algoriza-internship2025-EXFS51-BE-byway\Byway.Application\bin\Debug\net8.0\Byway.Domain.pdb
+S:\Algoriza\algoriza-internship2025-EXFS51-BE-byway\Byway.Application\obj\Debug\net8.0\Byway.Application.csproj.AssemblyReference.cache
+S:\Algoriza\algoriza-internship2025-EXFS51-BE-byway\Byway.Application\obj\Debug\net8.0\Byway.Application.GeneratedMSBuildEditorConfig.editorconfig
+S:\Algoriza\algoriza-internship2025-EXFS51-BE-byway\Byway.Application\obj\Debug\net8.0\Byway.Application.AssemblyInfoInputs.cache
+S:\Algoriza\algoriza-internship2025-EXFS51-BE-byway\Byway.Application\obj\Debug\net8.0\Byway.Application.AssemblyInfo.cs
+S:\Algoriza\algoriza-internship2025-EXFS51-BE-byway\Byway.Application\obj\Debug\net8.0\Byway.Application.csproj.CoreCompileInputs.cache
+S:\Algoriza\algoriza-internship2025-EXFS51-BE-byway\Byway.Application\obj\Debug\net8.0\Byway.Application.sourcelink.json
+S:\Algoriza\algoriza-internship2025-EXFS51-BE-byway\Byway.Application\obj\Debug\net8.0\Byway.Ap.AB7BE7CA.Up2Date
+S:\Algoriza\algoriza-internship2025-EXFS51-BE-byway\Byway.Application\obj\Debug\net8.0\Byway.Application.dll
+S:\Algoriza\algoriza-internship2025-EXFS51-BE-byway\Byway.Application\obj\Debug\net8.0\refint\Byway.Application.dll
+S:\Algoriza\algoriza-internship2025-EXFS51-BE-byway\Byway.Application\obj\Debug\net8.0\Byway.Application.pdb
+S:\Algoriza\algoriza-internship2025-EXFS51-BE-byway\Byway.Application\obj\Debug\net8.0\ref\Byway.Application.dll
